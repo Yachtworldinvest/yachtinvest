@@ -584,8 +584,8 @@ url('https://yachtsinvest.com/wp-content/themes/nemo/config-templatebuilder/avia
 <p class="faddress">International Yachting and Business Corporation <br>
 Registered in the United Kingdom under number 08863694
 </p>
-<p class="faddress">Tel.: +1 (0) 860 901 1171<br>
-Email: <a href="mailto:info@yachtsinvest.com">info@yachtsinvest.com</a><br>
+<p class="faddress">Tel.: +1 860 901 1171<br>
+Email: <a href="mailto:kalaina152@gmail.com">kalaina152@gmail.com</a><br>
 Website:  www.yachtsinvest.com
 </p></div>
 		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth el_before_av_one_fourth '><section id="text-31" class="widget clearfix widget_text"><h3 class="widgettitle">Services</h3>			<div class="textwidget"><ul>
